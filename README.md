@@ -1,3 +1,11 @@
+# CS256 — Java Learning Repository
+
+Java coursework and practice, including supporting examples and starter exercises from **Think Java, 2nd edition**. This is a learning repository rather than an original full-stack application.
+
+Explore `JavaOperators/` and `ScannerDemo/` for focused examples, and the chapter folders for book exercises. Preserve the source credits and license when reusing supporting material.
+
+## Original source documentation
+
 # ThinkJavaCode2
 Supporting code for Think Java, 2nd edition.
 Copyright (c) 2020 Allen B. Downey and Chris Mayfield.
